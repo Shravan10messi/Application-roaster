@@ -1,0 +1,13 @@
+body{
+    padding-left:50px;
+}
+input{
+    width:300px;
+    border-radius:3px
+}
+#output{
+    background-color:greenyellow; 
+}
+#sorted_output{
+    background-color:royalblue ;
+}
